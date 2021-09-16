@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Simple TypeScript Example</h1>
+  <h1 align="center">Simple TypeScript Todo App Example</h1>
 </p>
 
 ## My Purpose
